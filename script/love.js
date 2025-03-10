@@ -39,7 +39,7 @@ function init() {
     ctx.font = "60px Arial";
     ctx.fillStyle = "lightblue";
     ctx.textAlign = "center";
-    ctx.fillText("Ini buat Nuna uwuww", width / 2, height / 2.2 + 400);
+    ctx.fillText("Nih lope gede buat kamu Tar", width / 2, height / 2.2 + 400);
   }
 
   function heartPosition(rad) {

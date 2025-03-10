@@ -10,7 +10,7 @@ document.addEventListener('keydown', function(e) {
 
 const messages = [
     "Tap dimana aja yaaa",
-    "hay Nuna ",
+    "hay Tariza ",
     "aku mau ngomong sesuatu nih",
     "coba pencet",
     "pencet lagi",
@@ -25,10 +25,10 @@ const messages = [
     "yaudah deh",
     "padahal",
     "aku cuma mau bilang",
-    "kepasar beli terasi pulangnya makan kadal",
+    "ikan sepat ikan lele",
     "love you",
-    "bjiirlah",
-    "pencet tombol dibawah ini ya"
+    "bjiirlah slebewww wkwkw",
+    "harus pencet tombol di bawah sih"
 ];
 
 let currentPage = 0;
